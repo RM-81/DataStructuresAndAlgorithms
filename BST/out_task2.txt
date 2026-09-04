@@ -1,0 +1,87 @@
+Initial auction items:
+BST (In-order): (book:50) (laptop:500) (painting:1000) (phone:300) (watch:200) 
+
+Auction starts!
+
+==============================
+Bid of 600 on laptop accepted. Current bid: 600
+BST (In-order): (book:50) (laptop:600) (painting:1000) (phone:300) (watch:200) 
+==============================
+Bid of 550 on laptop rejected. Current bid: 600
+BST (In-order): (book:50) (laptop:600) (painting:1000) (phone:300) (watch:200) 
+==============================
+Bid of 250 on watch accepted. Current bid: 250
+BST (In-order): (book:50) (laptop:600) (painting:1000) (phone:300) (watch:250) 
+==============================
+Current bid for phone: 300
+BST (In-order): (book:50) (laptop:600) (painting:1000) (phone:300) (watch:250) 
+==============================
+Bid of 350 on phone accepted. Current bid: 350
+BST (In-order): (book:50) (laptop:600) (painting:1000) (phone:350) (watch:250) 
+==============================
+Statistics for laptop:
+  Current highest bid: 600
+  Total bids placed: 2
+  Successful bids: 1
+  Rejected bids: 1
+==============================
+Item camera added with starting bid 800
+BST (In-order): (book:50) (camera:800) (laptop:600) (painting:1000) (phone:350) (watch:250) 
+==============================
+Bid of 1200 on painting accepted. Current bid: 1200
+BST (In-order): (book:50) (camera:800) (laptop:600) (painting:1200) (phone:350) (watch:250) 
+==============================
+Bid of 75 on book accepted. Current bid: 75
+BST (In-order): (book:75) (camera:800) (laptop:600) (painting:1200) (phone:350) (watch:250) 
+==============================
+Current bid for laptop: 600
+BST (In-order): (book:75) (camera:800) (laptop:600) (painting:1200) (phone:350) (watch:250) 
+==============================
+Bid of 300 on watch accepted. Current bid: 300
+BST (In-order): (book:75) (camera:800) (laptop:600) (painting:1200) (phone:350) (watch:300) 
+==============================
+Bid of 400 on phone accepted. Current bid: 400
+BST (In-order): (book:75) (camera:800) (laptop:600) (painting:1200) (phone:400) (watch:300) 
+==============================
+Current bid for watch: 300
+BST (In-order): (book:75) (camera:800) (laptop:600) (painting:1200) (phone:400) (watch:300) 
+==============================
+Bid of 900 on camera accepted. Current bid: 900
+BST (In-order): (book:75) (camera:900) (laptop:600) (painting:1200) (phone:400) (watch:300) 
+==============================
+Statistics for phone:
+  Current highest bid: 400
+  Total bids placed: 2
+  Successful bids: 2
+  Rejected bids: 0
+==============================
+Current bid for painting: 1200
+BST (In-order): (book:75) (camera:900) (laptop:600) (painting:1200) (phone:400) (watch:300) 
+==============================
+Bid of 700 on laptop accepted. Current bid: 700
+BST (In-order): (book:75) (camera:900) (laptop:700) (painting:1200) (phone:400) (watch:300) 
+==============================
+Item tablet added with starting bid 400
+BST (In-order): (book:75) (camera:900) (laptop:700) (painting:1200) (phone:400) (tablet:400) (watch:300) 
+==============================
+Bid of 450 on tablet accepted. Current bid: 450
+BST (In-order): (book:75) (camera:900) (laptop:700) (painting:1200) (phone:400) (tablet:450) (watch:300) 
+==============================
+Auction Report:
+Total items: 7
+Total bids placed: 11
+Total successful bids: 10
+Total rejected bids: 1
+
+Item Statistics:
+  book: Current bid: 75, Total bids: 1, Successful: 1, Rejected: 0
+  camera: Current bid: 900, Total bids: 1, Successful: 1, Rejected: 0
+  laptop: Current bid: 700, Total bids: 3, Successful: 2, Rejected: 1
+  painting: Current bid: 1200, Total bids: 1, Successful: 1, Rejected: 0
+  phone: Current bid: 400, Total bids: 2, Successful: 2, Rejected: 0
+  tablet: Current bid: 450, Total bids: 1, Successful: 1, Rejected: 0
+  watch: Current bid: 300, Total bids: 2, Successful: 2, Rejected: 0
+==============================
+Current bid for camera: 900
+BST (In-order): (book:75) (camera:900) (laptop:700) (painting:1200) (phone:400) (tablet:450) (watch:300) 
+==============================

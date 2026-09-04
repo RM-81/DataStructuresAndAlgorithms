@@ -1,0 +1,32 @@
+F 1
+E
+I 8
+I 10
+I 3
+M Min
+I 1
+M Min
+M Max
+I 14
+M Max
+I 3
+D 3
+I 6
+I 4
+I 13
+I 7
+I 9
+T In
+T Pre
+T Post
+D 8
+T Pre
+S
+D 6
+S
+D 10
+D 10
+F 4
+T In
+T Pre
+T Post

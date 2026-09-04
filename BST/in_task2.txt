@@ -1,0 +1,27 @@
+5
+laptop 500
+watch 200
+phone 300
+painting 1000
+book 50
+BID laptop 600
+BID laptop 550
+BID watch 250
+CHECK phone
+BID phone 350
+STATS laptop
+ADD camera 800
+BID painting 1200
+BID book 75
+CHECK laptop
+BID watch 300
+BID phone 400
+CHECK watch
+BID camera 900
+STATS phone
+CHECK painting
+BID laptop 700
+ADD tablet 400
+BID tablet 450
+REPORT
+CHECK camera
