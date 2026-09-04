@@ -1,0 +1,52 @@
+﻿Printing Binomial Heap H1
+Heap size: 0
+Heap H1 is empty
+Printing Binomial Heap H2
+Heap size: 0
+Heap H2 is empty
+Find Min returned: 10
+Printing Binomial Heap H1
+Heap size: 1
+Binomial Tree, B0
+Level 0: 10
+Extract Min returned: 10
+Printing Binomial Heap H1
+Heap size: 0
+Heap H1 is empty
+Find Min returned: -5
+Printing Binomial Heap H2
+Heap size: 2
+Binomial Tree, B1
+Level 0: -5
+Level 1: 15
+Extract Min returned: -5
+Printing Binomial Heap H2
+Heap size: 1
+Binomial Tree, B0
+Level 0: 15
+=== Visualizing Heap H2 ===
+Root B0 ->
+\--[15 : degree 0]
+===========================
+=== Visualizing Union of H1 and H2 ===
+--- Before Union H1 ---
+=== Visualizing Heap H1 ===
+Heap is empty.
+===========================
+--- Before Union H2 ---
+=== Visualizing Heap H2 ===
+Root B0 ->
+\--[15 : degree 0]
+===========================
+--- Union Process ---
+--- After Union H1 ---
+=== Visualizing Heap H1 ===
+Root B0 ->
+\--[15 : degree 0]
+===========================
+=========================================
+=== Structural Statistics for Heap H1 ===
+Total Nodes (Size): 1
+Binomial Trees Present (Orders): B0
+Max Tree Order / Depth: B0 (Height: 0)
+=======================================

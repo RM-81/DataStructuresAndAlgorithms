@@ -1,0 +1,36 @@
+﻿AVL
+operation, count, total_ns, average_ns
+insert, 47, 40000, 851
+delete, 23, 17600, 765
+find, 7, 2000, 285
+traverse, 3, 19200, 6400
+
+Interval Scheduler
+operation, count, total_ns, average_ns
+add, 14, 13300, 950
+remove, 13, 6200, 476
+update, 5, 4600, 920
+conflict, 8, 1000, 125
+overlaps, 11, 8900, 809
+at, 10, 4900, 490
+next, 11, 1100, 100
+
+Interval Scheduler
+operation, count, total_ns, average_ns
+add, 19, 28700, 1510
+remove, 17, 14300, 841
+update, 4, 9400, 2350
+conflict, 13, 2600, 200
+overlaps, 10, 21700, 2170
+at, 16, 24400, 1525
+next, 13, 2000, 153
+
+Interval Scheduler
+operation, count, total_ns, average_ns
+add, 950, 1577300, 1660
+remove, 80, 126000, 1575
+update, 100, 370800, 3708
+conflict, 150, 58400, 389
+overlaps, 150, 313700, 2091
+at, 150, 191600, 1277
+next, 150, 46800, 312

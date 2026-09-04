@@ -1,0 +1,52 @@
+Printing Binomial Heap H1
+Heap size: 3
+Binomial Tree, B0
+Level 0: 50
+Binomial Tree, B1
+Level 0: 10
+Level 1: 30
+Printing Binomial Heap H2
+Heap size: 3
+Binomial Tree, B0
+Level 0: 60
+Binomial Tree, B1
+Level 0: 20
+Level 1: 40
+Printing Binomial Heap H1
+Heap size: 6
+Binomial Tree, B1
+Level 0: 50
+Level 1: 60
+Binomial Tree, B2
+Level 0: 10
+Level 1: 20 30
+Level 2: 40
+Printing Binomial Heap H2
+Heap size: 0
+Heap H2 is empty.
+Printing Binomial Heap H1
+Heap size: 7
+Binomial Tree, B0
+Level 0: 5
+Binomial Tree, B1
+Level 0: 50
+Level 1: 60
+Binomial Tree, B2
+Level 0: 10
+Level 1: 20 30
+Level 2: 40
+Printing Binomial Heap H2
+Heap size: 1
+Binomial Tree, B0
+Level 0: 1
+Printing Binomial Heap H1
+Heap size: 8
+Binomial Tree, B3
+Level 0: 1
+Level 1: 5 10 50
+Level 2: 20 30 60
+Level 3: 40
+Printing Binomial Heap H2
+Heap size: 0
+Heap H2 is empty.
+Find Min returned: 1

@@ -1,0 +1,173 @@
+Printing Binomial Heap H1
+Heap size: 8
+Binomial Tree, B3
+Level 0: 1000
+Level 1: 1009 1020 1038
+Level 2: 1028 1044 1050
+Level 3: 1058
+Printing Binomial Heap H2
+Heap size: 8
+Binomial Tree, B3
+Level 0: 1002
+Level 1: 1013 1026 1040
+Level 2: 1033 1048 1053
+Level 3: 1062
+Find Min returned: 992
+Printing Binomial Heap H2
+Heap size: 11
+Binomial Tree, B0
+Level 0: 1100
+Binomial Tree, B1
+Level 0: 1067
+Level 1: 1088
+Binomial Tree, B3
+Level 0: 983
+Level 1: 992 1002 1026
+Level 2: 1033 1048 1053
+Level 3: 1062
+Extract Min returned: 983
+Find Min returned: 975
+Printing Binomial Heap H2
+Heap size: 10
+Binomial Tree, B1
+Level 0: 992
+Level 1: 1100
+Binomial Tree, B3
+Level 0: 1002
+Level 1: 1026 1048 1053
+Level 2: 1033 1062 1067
+Level 3: 1088
+Find Min returned: 992
+Find Min returned: 962
+Printing Binomial Heap H2
+Heap size: 12
+Binomial Tree, B2
+Level 0: 992
+Level 1: 1100 1107
+Level 2: 1110
+Binomial Tree, B3
+Level 0: 1002
+Level 1: 1026 1048 1053
+Level 2: 1033 1062 1067
+Level 3: 1088
+Extract Min returned: 992
+Printing Binomial Heap H1
+Heap size: 13
+Binomial Tree, B0
+Level 0: 1118
+Binomial Tree, B2
+Level 0: 1077
+Level 1: 1090 1104
+Level 2: 1114
+Binomial Tree, B3
+Level 0: 959
+Level 1: 962 975 1009
+Level 2: 1000 1020 1044
+Level 3: 1038
+Find Min returned: 950
+Extract Min returned: 947
+Find Min returned: 950
+Find Min returned: 945
+Printing Binomial Heap H1
+Heap size: 0
+Heap H1 is empty.
+Printing Binomial Heap H1
+Heap size: 1
+Binomial Tree, B0
+Level 0: 1155
+Find Min returned: 944
+Extract Min returned: 939
+Extract Min returned: 944
+Extract Min returned: 945
+Extract Min returned: 959
+Printing Binomial Heap H1
+Heap size: 26
+Binomial Tree, B1
+Level 0: 1002
+Level 1: 1100
+Binomial Tree, B3
+Level 0: 975
+Level 1: 1020 1118 1142
+Level 2: 1128 1144 1166
+Level 3: 1134
+Binomial Tree, B4
+Level 0: 962
+Level 1: 1000 1048 1077 1104
+Level 2: 1026 1038 1044 1114 1174 1176
+Level 3: 1033 1067 1183 1189
+Level 4: 1088
+Find Min returned: 962
+Printing Binomial Heap H2
+Heap size: 1
+Binomial Tree, B0
+Level 0: 1194
+Find Min returned: 962
+Extract Min returned: 1194
+Extract Min returned: 949
+Printing Binomial Heap H1
+Heap size: 22
+Binomial Tree, B1
+Level 0: 1038
+Level 1: 1174
+Binomial Tree, B2
+Level 0: 1044
+Level 1: 1176 1189
+Level 2: 1183
+Binomial Tree, B4
+Level 0: 954
+Level 1: 956 962 1002 1166
+Level 2: 1000 1020 1100 1104 1128 1142
+Level 3: 1026 1067 1077 1144
+Level 4: 1088
+Find Min returned: 954
+Printing Binomial Heap H1
+Heap size: 0
+Heap H1 is empty.
+Extract Min returned: 946
+Find Min returned: 947
+Extract Min returned: 947
+Extract Min returned: 954
+Find Min returned: 956
+Find Min returned: 956
+Printing Binomial Heap H1
+Heap size: 0
+Heap H1 is empty.
+Printing Binomial Heap H2
+Heap size: 26
+Binomial Tree, B1
+Level 0: 1237
+Level 1: 1249
+Binomial Tree, B3
+Level 0: 962
+Level 1: 1000 1020 1067
+Level 2: 1077 1088 1104
+Level 3: 1245
+Binomial Tree, B4
+Level 0: 956
+Level 1: 1002 1038 1128 1166
+Level 2: 1044 1100 1142 1174 1176 1231
+Level 3: 1144 1183 1206 1212
+Level 4: 1222
+Find Min returned: 956
+Find Min returned: 956
+Extract Min returned: 956
+Printing Binomial Heap H1
+Heap size: 24
+Binomial Tree, B3
+Level 0: 1100
+Level 1: 1128 1142 1259
+Level 2: 1144 1166 1237
+Level 3: 1231
+Binomial Tree, B4
+Level 0: 962
+Level 1: 1000 1020 1038 1067
+Level 2: 1044 1077 1088 1104 1174 1176
+Level 3: 1183 1206 1212 1245
+Level 4: 1222
+Find Min returned: 962
+Extract Min returned: 962
+Find Min returned: 1020
+Extract Min returned: 1020
+Extract Min returned: 1038
+Extract Min returned: 1044
+Find Min returned: 1067

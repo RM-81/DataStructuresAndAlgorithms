@@ -1,0 +1,26 @@
+Printing Binomial Heap H1
+Heap size: 0
+Heap H1 is empty.
+Printing Binomial Heap H2
+Heap size: 0
+Heap H2 is empty.
+Find Min returned: 10
+Printing Binomial Heap H1
+Heap size: 1
+Binomial Tree, B0
+Level 0: 10
+Extract Min returned: 10
+Printing Binomial Heap H1
+Heap size: 0
+Heap H1 is empty.
+Find Min returned: -5
+Printing Binomial Heap H2
+Heap size: 2
+Binomial Tree, B1
+Level 0: -5
+Level 1: 15
+Extract Min returned: -5
+Printing Binomial Heap H2
+Heap size: 1
+Binomial Tree, B0
+Level 0: 15

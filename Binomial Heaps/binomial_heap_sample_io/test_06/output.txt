@@ -1,0 +1,68 @@
+Printing Binomial Heap H1
+Heap size: 16
+Binomial Tree, B4
+Level 0: 100
+Level 1: 110 120 140 180
+Level 2: 130 150 160 190 200 220
+Level 3: 170 210 230 240
+Level 4: 250
+Printing Binomial Heap H1
+Heap size: 15
+Binomial Tree, B0
+Level 0: 110
+Binomial Tree, B1
+Level 0: 120
+Level 1: 130
+Binomial Tree, B2
+Level 0: 140
+Level 1: 150 160
+Level 2: 170
+Binomial Tree, B3
+Level 0: 100
+Level 1: 180 190 200
+Level 2: 210 220 230
+Level 3: 240
+Find Min returned: 100
+Printing Binomial Heap H1
+Heap size: 14
+Binomial Tree, B1
+Level 0: 110
+Level 1: 190
+Binomial Tree, B2
+Level 0: 120
+Level 1: 130 200
+Level 2: 210
+Binomial Tree, B3
+Level 0: 100
+Level 1: 140 220 230
+Level 2: 150 160 240
+Level 3: 170
+Printing Binomial Heap H1
+Heap size: 13
+Binomial Tree, B0
+Level 0: 230
+Binomial Tree, B2
+Level 0: 110
+Level 1: 190 220
+Level 2: 240
+Binomial Tree, B3
+Level 0: 120
+Level 1: 130 140 200
+Level 2: 150 160 210
+Level 3: 170
+Find Min returned: 110
+Printing Binomial Heap H1
+Heap size: 11
+Binomial Tree, B0
+Level 0: 230
+Binomial Tree, B1
+Level 0: 120
+Level 1: 200
+Binomial Tree, B3
+Level 0: 110
+Level 1: 140 190 220
+Level 2: 150 160 240
+Level 3: 170
+Printing Binomial Heap H2
+Heap size: 0
+Heap H2 is empty.

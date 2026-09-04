@@ -1,0 +1,83 @@
+Printing Binomial Heap H1
+Heap size: 5
+Binomial Tree, B0
+Level 0: 60
+Binomial Tree, B2
+Level 0: 10
+Level 1: 20 40
+Level 2: 70
+Printing Binomial Heap H2
+Heap size: 2
+Binomial Tree, B1
+Level 0: 15
+Level 1: 50
+Printing Binomial Heap H1
+Heap size: 7
+Binomial Tree, B0
+Level 0: 60
+Binomial Tree, B1
+Level 0: 15
+Level 1: 50
+Binomial Tree, B2
+Level 0: 10
+Level 1: 20 40
+Level 2: 70
+Printing Binomial Heap H2
+Heap size: 0
+Heap H2 is empty.
+Printing Binomial Heap H1
+Heap size: 7
+Binomial Tree, B0
+Level 0: 60
+Binomial Tree, B1
+Level 0: 15
+Level 1: 50
+Binomial Tree, B2
+Level 0: 10
+Level 1: 20 40
+Level 2: 70
+Printing Binomial Heap H1
+Heap size: 0
+Heap H1 is empty.
+Printing Binomial Heap H2
+Heap size: 7
+Binomial Tree, B0
+Level 0: 60
+Binomial Tree, B1
+Level 0: 15
+Level 1: 50
+Binomial Tree, B2
+Level 0: 10
+Level 1: 20 40
+Level 2: 70
+Printing Binomial Heap H1
+Heap size: 7
+Binomial Tree, B0
+Level 0: 60
+Binomial Tree, B1
+Level 0: 15
+Level 1: 50
+Binomial Tree, B2
+Level 0: 10
+Level 1: 20 40
+Level 2: 70
+Printing Binomial Heap H2
+Heap size: 0
+Heap H2 is empty.
+Printing Binomial Heap H2
+Heap size: 2
+Binomial Tree, B1
+Level 0: 5
+Level 1: 55
+Printing Binomial Heap H1
+Heap size: 0
+Heap H1 is empty.
+Printing Binomial Heap H2
+Heap size: 9
+Binomial Tree, B0
+Level 0: 60
+Binomial Tree, B3
+Level 0: 5
+Level 1: 10 15 55
+Level 2: 20 40 50
+Level 3: 70

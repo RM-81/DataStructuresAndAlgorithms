@@ -1,0 +1,42 @@
+﻿Printing Binomial Heap H1
+Heap size: 1
+Binomial Tree, B0
+Level 0: 80
+Printing Binomial Heap H1
+Heap size: 2
+Binomial Tree, B1
+Level 0: 70
+Level 1: 80
+Printing Binomial Heap H1
+Heap size: 4
+Binomial Tree, B2
+Level 0: 50
+Level 1: 60 70
+Level 2: 80
+Printing Binomial Heap H1
+Heap size: 8
+Binomial Tree, B3
+Level 0: 10
+Level 1: 20 30 50
+Level 2: 40 60 70
+Level 3: 80
+Find Min returned: 10
+Printing Binomial Heap H1
+Heap size: 9
+Binomial Tree, B0
+Level 0: 90
+Binomial Tree, B3
+Level 0: 10
+Level 1: 20 30 50
+Level 2: 40 60 70
+Level 3: 80
+Printing Binomial Heap H1
+Heap size: 10
+Binomial Tree, B1
+Level 0: 5
+Level 1: 90
+Binomial Tree, B3
+Level 0: 10
+Level 1: 20 30 50
+Level 2: 40 60 70
+Level 3: 80

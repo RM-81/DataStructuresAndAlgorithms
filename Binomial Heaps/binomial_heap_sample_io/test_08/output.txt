@@ -1,0 +1,76 @@
+Printing Binomial Heap H1
+Heap size: 6
+Binomial Tree, B1
+Level 0: -1000000000
+Level 1: 31
+Binomial Tree, B2
+Level 0: 7
+Level 1: 11 19
+Level 2: 26
+Find Min returned: -1000000000
+Printing Binomial Heap H1
+Heap size: 5
+Binomial Tree, B0
+Level 0: 11
+Binomial Tree, B2
+Level 0: -1000000000
+Level 1: 19 31
+Level 2: 26
+Find Min returned: -1000000000
+Printing Binomial Heap H2
+Heap size: 3
+Binomial Tree, B0
+Level 0: 42
+Binomial Tree, B1
+Level 0: -999999999
+Level 1: 1000000000
+Printing Binomial Heap H2
+Heap size: 3
+Binomial Tree, B0
+Level 0: 42
+Binomial Tree, B1
+Level 0: -999999999
+Level 1: -999999998
+Find Min returned: -999999999
+Printing Binomial Heap H1
+Heap size: 0
+Heap H1 is empty.
+Printing Binomial Heap H2
+Heap size: 8
+Binomial Tree, B3
+Level 0: -1000000000
+Level 1: -999999999 19 31
+Level 2: -999999998 11 26
+Level 3: 42
+Find Min returned: -1000000000
+Printing Binomial Heap H2
+Heap size: 7
+Binomial Tree, B0
+Level 0: 31
+Binomial Tree, B1
+Level 0: -1000000000
+Level 1: 19
+Binomial Tree, B2
+Level 0: -999999999
+Level 1: -999999998 11
+Level 2: 42
+Extract Min returned: -1000000000
+Printing Binomial Heap H2
+Heap size: 6
+Binomial Tree, B1
+Level 0: 19
+Level 1: 31
+Binomial Tree, B2
+Level 0: -999999999
+Level 1: -999999998 11
+Level 2: 42
+Printing Binomial Heap H2
+Heap size: 6
+Binomial Tree, B1
+Level 0: 19
+Level 1: 31
+Binomial Tree, B2
+Level 0: -999999999
+Level 1: -999999998 -750000000
+Level 2: 11
+Find Min returned: -999999999
